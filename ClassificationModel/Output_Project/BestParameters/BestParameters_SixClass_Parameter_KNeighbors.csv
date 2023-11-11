@@ -1,0 +1,4 @@
+,Parameter_KNeighbors,Completed_KNeighbors,Majority_KNeighbors,Rater1_KNeighbors,Rater2_KNeighbors,Rater3_KNeighbors
+0,metric,manhattan,euclidean,manhattan,euclidean,euclidean
+1,n_neighbors,6,9,13,11,11
+2,weights,distance,distance,uniform,distance,distance

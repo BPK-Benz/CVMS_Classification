@@ -1,0 +1,31 @@
+,0
+0,Age month
+1,C4_ratio distance(h/v)_Left
+2,C3_ratio distance(h/v)_Left
+3,C4 slope 16-17
+4,C2 height 0-2-4
+5,C3 distance 5-9
+6,C4 height 12-14-16
+7,C4 ratio distance
+8,C4_AUC
+9,C4 angle 12-14-16
+10,C4_Normalized
+11,C3 angle 5-7-9
+12,C4 distance 12-18
+13,C3_Base_Height
+14,C3_ratio distance(h/v)_Right
+15,C3 ratio distance
+16,C4_ratio distance(h/v)_Right
+17,C2_AUC
+18,C3 height 5-7-9
+19,C3_AUC
+20,C3 distance 9-10
+21,C2_Normalized
+22,C3 distance 5-11
+23,C3_Normalized
+24,C2_Base_Height
+25,C4 distance 16-17
+26,C2 distance 0-4
+27,C2 angle 0-2-4
+28,C4_Base_Height
+29,C4 distance 12-16

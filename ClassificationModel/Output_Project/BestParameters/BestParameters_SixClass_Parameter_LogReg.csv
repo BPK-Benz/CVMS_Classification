@@ -1,0 +1,4 @@
+,Parameter_LogReg,Completed_LogReg,Majority_LogReg,Rater1_LogReg,Rater2_LogReg,Rater3_LogReg
+0,C,0.615848211066026,11.288378916846883,1.623776739188721,1.623776739188721,4.281332398719396
+1,penalty,l2,l2,l2,l2,l2
+2,solver,saga,saga,newton-cg,saga,sag

@@ -1,0 +1,6 @@
+New_Dataset,Model_Completed,Model_Majority,Model_Rater1,Model_Rater2,Model_Rater3
+Data_Completed,0.788,0.745,0.686,0.737,0.657
+Data_Majority,0.623,0.704,0.636,0.694,0.549
+Data_Rater1,0.552,0.61,0.671,0.605,0.426
+Data_Rater2,0.557,0.625,0.591,0.68,0.499
+Data_Rater3,0.574,0.492,0.45,0.465,0.659

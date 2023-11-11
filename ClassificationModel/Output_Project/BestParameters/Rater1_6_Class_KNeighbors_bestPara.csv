@@ -1,0 +1,4 @@
+,0
+metric,manhattan
+n_neighbors,13
+weights,uniform

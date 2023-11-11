@@ -1,0 +1,6 @@
+,Parameter_MLP,Completed_MLP,Majority_MLP,Rater1_MLP,Rater2_MLP,Rater3_MLP
+0,activation,relu,relu,tanh,relu,tanh
+1,alpha,0.0001,0.05,0.05,0.0001,0.0001
+2,hidden_layer_sizes,"(5, 10)","(10, 10, 10)","(5, 10)","(10,)","(5, 10)"
+3,learning_rate,constant,adaptive,constant,constant,adaptive
+4,solver,sgd,sgd,adam,sgd,sgd

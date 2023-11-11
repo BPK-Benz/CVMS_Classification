@@ -1,0 +1,7 @@
+,Parameter_RForest,Completed_RForest,Majority_RForest,Rater1_RForest,Rater2_RForest,Rater3_RForest
+0,bootstrap,True,True,False,True,False
+1,max_depth,30,30,25,30,5
+2,max_features,auto,sqrt,auto,sqrt,sqrt
+3,min_samples_leaf,1,1,1,4,1
+4,min_samples_split,10,2,2,2,10
+5,n_estimators,48,84,100,91,66

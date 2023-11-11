@@ -1,0 +1,32 @@
+,Completed,Majority,Rater1,Rater2,Rater3
+0,Age month,Age month,Age month,Age month,Age month
+1,C2 angle 0-2-4,C2 angle 0-2-4,C2 angle 0-2-4,C2 angle 0-2-4,C2 angle 0-2-4
+2,C2 height 0-2-4,C2 height 0-2-4,C2 distance 0-4,C2 height 0-2-4,C2 distance 0-4
+3,C2_AUC,C2_AUC,C2 height 0-2-4,C2_AUC,C2 height 0-2-4
+4,C2_Base_Height,C2_Base_Height,C2 height 1-2-3,C2_Base_Height,C2_AUC
+5,C2_Normalized,C2_Normalized,C2_AUC,C2_Normalized,C2_Base_Height
+6,C3 angle 5-7-9,C3 angle 5-7-9,C2_Base_Height,C3 angle 5-7-9,C2_Normalized
+7,C3 distance 5-11,C3 distance 5-11,C2_Normalized,C3 distance 5-11,C3 angle 5-7-9
+8,C3 distance 9-10,C3 distance 9-10,C3 angle 5-7-9,C3 distance 5-9,C3 distance 5-11
+9,C3 height 5-7-9,C3 height 5-7-9,C3 distance 5-11,C3 distance 9-10,C3 distance 5-9
+10,C3 ratio distance,C3 ratio distance,C3 distance 5-9,C3 height 5-7-9,C3 distance 9-10
+11,C3_AUC,C3_AUC,C3 distance 9-10,C3 ratio distance,C3 height 5-7-9
+12,C3_Base_Height,C3_Base_Height,C3 height 5-7-9,C3_AUC,C3 ratio distance
+13,C3_Normalized,C3_Normalized,C3 ratio distance,C3_Base_Height,C3_AUC
+14,C3_ratio distance(h/v)_Left,C3_ratio distance(h/v)_Left,C3_AUC,C3_Normalized,C3_Base_Height
+15,C3_ratio distance(h/v)_Right,C3_ratio distance(h/v)_Right,C3_Base_Height,C3_ratio distance(h/v)_Left,C3_Normalized
+16,C4 angle 12-14-16,C4 angle 12-14-16,C3_Normalized,C3_ratio distance(h/v)_Right,C3_ratio distance(h/v)_Left
+17,C4 distance 12-18,C4 distance 12-18,C3_ratio distance(h/v)_Left,C4 distance 12-18,C3_ratio distance(h/v)_Right
+18,C4 distance 16-17,C4 distance 16-17,C3_ratio distance(h/v)_Right,C4 distance 16-17,C4 angle 12-14-16
+19,C4 height 12-14-16,C4 height 12-14-16,C4 angle 12-14-16,C4 height 12-14-16,C4 distance 12-16
+20,C4 ratio distance,C4 ratio distance,C4 distance 12-16,C4 ratio distance,C4 distance 12-18
+21,C4 slope 16-17,C4 slope 16-17,C4 distance 12-18,C4 slope 16-17,C4 distance 16-17
+22,C4_AUC,C4_AUC,C4 distance 16-17,C4_AUC,C4 height 12-14-16
+23,C4_Base_Height,C4_Base_Height,C4 height 12-14-16,C4_Base_Height,C4 ratio distance
+24,C4_Normalized,C4_Normalized,C4 ratio distance,C4_Normalized,C4 slope 16-17
+25,C4_ratio distance(h/v)_Left,C4_ratio distance(h/v)_Left,C4 slope 16-17,C4_ratio distance(h/v)_Left,C4_AUC
+26,,C4_ratio distance(h/v)_Right,C4_AUC,C4_ratio distance(h/v)_Right,C4_Base_Height
+27,,,C4_Base_Height,,C4_Normalized
+28,,,C4_Normalized,,C4_ratio distance(h/v)_Left
+29,,,C4_ratio distance(h/v)_Left,,C4_ratio distance(h/v)_Right
+30,,,C4_ratio distance(h/v)_Right,,
